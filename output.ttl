@@ -1,0 +1,515 @@
+@prefix nhresource: <https://newshunter.uib.no/resource#> .
+@prefix nhterm: <https://newshunter.uib.no/term#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+nhresource:aef2eca6950ada902693009270d2b201 a nhterm:Item ;
+    nhterm:canonicalText "Artificial structures have replaced more than half of the coastline of 30 cities around the world, according to new research suggesting coastal infrastructure will have a significant ecological impact if not well managed. “Coastal hardening” – replacing natural coastal habitats with seawalls, breakwalls, wharves and other structures – is “consistently extensive” across cities in North America, the UK, Australia and New Zealand, finds a study published on Friday. The study’s authors warn that increases in coastal hardening “will result in the loss of extensive remaining natural habitat” – such as rocky reefs, sandy beaches, mudflats and mangroves – and further the spread of invasive species. Dr Ana Bugnot of the University of Sydney, one of the study’s co-authors, said the team found a correlation between the extent of coastal hardening and the number of invasive marine species present in a local area. “Ports particularly are big hotspots of invasive species, because they come in the hulls of ships, and ballast water,” she said. Non-native species then “find those [artificial] structures that are not really colonised much by the natural biodiversity … from there they can spread to surrounding areas.” Previous research by Bugnot has estimated that at least 1m sq km of seascape has been modified by the installation of coastal structures globally. Some coastal habitats such as mudflats and mangroves are “very important for migratory birds … as well as nursery habitats for particular types of fish,” she said. “When you put a breakwall or a seawall, you’re changing what is a soft sediment environment into a hard structure … you completely change the ecology of the place and you can lose those nursing grounds for some important species.” The researchers, from Australia and New Zealand, analysed coastal infrastructure in 30 cities including Adelaide, Baltimore, Belfast and Vancouver. They found several factors were linked to an increase in coastal hardening. Bugnot said: “In this set of estuaries that we studied, the indicators of growth were related to regional GDP of an area, population and then a series of shipping and boating parameters,” such as higher numbers of port visits by cargo ships, and more marinas for recreational boating. The team then developed an AI model to forecast the regional expansion of common types of coastal infrastructure. Using New Zealand as a specific case study, the researchers forecast an expansion of coastal infrastructure between 50 and 76% over a 25-year period. Bugnot said being able to predict where future growth in artificial coastal infrastructure would occur could help inform decisions before new structures were built. “Retrofitting … is usually a bigger battle,” she said. The ideal option is to restore some coastal habitats to their original state. “Sometimes reversing it back in the long term will be the cheapest and the most effective solution,” Bugnot said. In other locations, where shipping activity is high, ecological engineering could be employed. “If you think of a seawall, it’s a flat, vertical wall. The idea is to design those to look a bit more similar to what a rocky shore would look like, that would have peaks and crevices and ledges” to mimic natural microhabitats, Bugnot said. Mudflats, mangroves and other coastal habitats provide natural barriers that can play a significant role in reducing the effects of severe storms, saving thousands of lives and $600bn a year, another report found last week. Bugnot says the researchers were not able to explore what kind of an impact climate change – linked storm surges and sea level rise – would have as natural coastline habitats are replaced by artificial structures. “At the moment, the existence of coastal infrastructure seems to be driven by shipping and boating, but in the future, that could change,” she said. The study was published in the journal Nature Sustainability."^^xsd:string ;
+    nhterm:canonicalTitle "Natural habitats of 30 cities around the world at risk due to ‘coastal hardening’, study suggests"^^xsd:string ;
+    nhterm:hasAnnotation [ a nhterm:Annotation ;
+            nhterm:anchorOf "habitat"^^xsd:string ;
+            nhterm:beginIndex "584"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Habitat> ;
+            nhterm:hasPercentageOfSecondRank "1.354236347225982e-06"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9999986429040859"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "24919.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Vancouver"^^xsd:string ;
+            nhterm:beginIndex "1898"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Vancouver> ;
+            nhterm:hasPercentageOfSecondRank "0.0012259273957038906"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9986805041140425"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "41177.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "climate change"^^xsd:string ;
+            nhterm:beginIndex "3583"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Climate_change> ;
+            nhterm:hasPercentageOfSecondRank "1.650329278676262e-05"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9999834966963432"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "25594.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "fish"^^xsd:string ;
+            nhterm:beginIndex "1513"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Fish> ;
+            nhterm:hasPercentageOfSecondRank "0.14967981927285776"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.8346164401186911"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "24867.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "breakwall"^^xsd:string ;
+            nhterm:beginIndex "1546"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Breakwater_(structure)> ;
+            nhterm:hasPercentageOfSecondRank "0.0"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9991479229415863"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "1158.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Baltimore"^^xsd:string ;
+            nhterm:beginIndex "1875"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Baltimore> ;
+            nhterm:hasPercentageOfSecondRank "1.4376423850877021e-06"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9999985422572701"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "40920.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "seawall"^^xsd:string ;
+            nhterm:beginIndex "3060"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Seawall> ;
+            nhterm:hasPercentageOfSecondRank "8.808043623629141e-25"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "1.0"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "688.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Belfast"^^xsd:string ;
+            nhterm:beginIndex "1886"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Belfast> ;
+            nhterm:hasPercentageOfSecondRank "0.0019934394987604926"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9979837554493134"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "27452.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Australia"^^xsd:string ;
+            nhterm:beginIndex "1783"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Australia> ;
+            nhterm:hasPercentageOfSecondRank "5.561194037973766e-14"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9999999999997726"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "198164.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Adelaide"^^xsd:string ;
+            nhterm:beginIndex "1865"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Adelaide_city_centre> ;
+            nhterm:hasPercentageOfSecondRank "0.045710422591988924"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9562876352884231"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "1369.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "ecology"^^xsd:string ;
+            nhterm:beginIndex "1672"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Ecology> ;
+            nhterm:hasPercentageOfSecondRank "0.0020077055539282993"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9979963168346121"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "8270.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "seascape"^^xsd:string ;
+            nhterm:beginIndex "1287"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Seascape> ;
+            nhterm:hasPercentageOfSecondRank "0.0"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "1.0"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "130.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "AI"^^xsd:string ;
+            nhterm:beginIndex "2297"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Artificial_intelligence> ;
+            nhterm:hasPercentageOfSecondRank "8.836976755493227e-07"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9999991077149277"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "11519.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "seawall"^^xsd:string ;
+            nhterm:beginIndex "1561"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Seawall> ;
+            nhterm:hasPercentageOfSecondRank "8.808043623629141e-25"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "1.0"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "688.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "species"^^xsd:string ;
+            nhterm:beginIndex "1751"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Invasive_species> ;
+            nhterm:hasPercentageOfSecondRank "1.4311664380074278e-07"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9999998568571402"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "4884.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Sydney"^^xsd:string ;
+            nhterm:beginIndex "735"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Port_Jackson> ;
+            nhterm:hasPercentageOfSecondRank "2.2211051634383873e-05"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9999777812239737"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "4134.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "GDP"^^xsd:string ;
+            nhterm:beginIndex "2091"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Gross_domestic_product> ;
+            nhterm:hasPercentageOfSecondRank "0.088956499240638"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9183103200660009"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "10334.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "estuaries"^^xsd:string ;
+            nhterm:beginIndex "2014"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Estuary> ;
+            nhterm:hasPercentageOfSecondRank "0.0"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "1.0"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "5961.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "New Zealand"^^xsd:string ;
+            nhterm:beginIndex "419"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/New_Zealanders> ;
+            nhterm:hasPercentageOfSecondRank "0.010948329484277876"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.983847563957949"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "1387.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "UK"^^xsd:string ;
+            nhterm:beginIndex "401"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/United_Kingdom> ;
+            nhterm:hasPercentageOfSecondRank "8.878045434541414e-06"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9999910669438309"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "194835.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "New Zealand"^^xsd:string ;
+            nhterm:beginIndex "1797"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/New_Zealanders> ;
+            nhterm:hasPercentageOfSecondRank "0.010948329484277876"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.983847563957949"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "1387.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "nursing"^^xsd:string ;
+            nhterm:beginIndex "1716"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Lactation> ;
+            nhterm:hasPercentageOfSecondRank "0.47214835776147507"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.5940352087889991"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "775.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "invasive species"^^xsd:string ;
+            nhterm:beginIndex "955"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Invasive_species> ;
+            nhterm:hasPercentageOfSecondRank "8.353302576342267e-22"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "1.0"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "4884.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Retrofitting"^^xsd:string ;
+            nhterm:beginIndex "2700"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Retrofitting> ;
+            nhterm:hasPercentageOfSecondRank "0.0"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "1.0"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "279.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "species"^^xsd:string ;
+            nhterm:beginIndex "1055"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Invasive_species> ;
+            nhterm:hasPercentageOfSecondRank "1.4311664380074278e-07"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9999998568571402"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "4884.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "Australia"^^xsd:string ;
+            nhterm:beginIndex "405"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Australia> ;
+            nhterm:hasPercentageOfSecondRank "5.561194037973766e-14"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9999999999997726"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "198164.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "species"^^xsd:string ;
+            nhterm:beginIndex "882"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Invasive_species> ;
+            nhterm:hasPercentageOfSecondRank "1.4311664380074278e-07"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9999998568571402"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "4884.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "invasive species"^^xsd:string ;
+            nhterm:beginIndex "682"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Invasive_species> ;
+            nhterm:hasPercentageOfSecondRank "8.353302576342267e-22"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "1.0"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "4884.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "rocky shore"^^xsd:string ;
+            nhterm:beginIndex "3162"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Rocky_shore> ;
+            nhterm:hasPercentageOfSecondRank "0.0"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "1.0"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "76.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "biodiversity"^^xsd:string ;
+            nhterm:beginIndex "1154"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Biodiversity> ;
+            nhterm:hasPercentageOfSecondRank "4.85977254186528e-09"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9999999951401151"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "7639.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "sea level rise"^^xsd:string ;
+            nhterm:beginIndex "3624"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Sea_level_rise> ;
+            nhterm:hasPercentageOfSecondRank "0.0"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "1.0"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "1866.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "ballast water"^^xsd:string ;
+            nhterm:beginIndex "1018"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Sailing_ballast> ;
+            nhterm:hasPercentageOfSecondRank "2.7771154562778933e-11"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9999999999722604"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "538.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "New Zealand"^^xsd:string ;
+            nhterm:beginIndex "2390"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/New_Zealanders> ;
+            nhterm:hasPercentageOfSecondRank "0.010948329484277876"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.983847563957949"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "1387.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "North America"^^xsd:string ;
+            nhterm:beginIndex "382"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/North_America> ;
+            nhterm:hasPercentageOfSecondRank "1.5263446024781448e-09"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.9999999984736405"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "39536.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "sediment"^^xsd:string ;
+            nhterm:beginIndex "1601"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Sedimentation> ;
+            nhterm:hasPercentageOfSecondRank "0.2622797385974161"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "0.7922174213767341"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "842.0"^^xsd:float ],
+        [ a nhterm:Annotation ;
+            nhterm:anchorOf "ecological engineering"^^xsd:string ;
+            nhterm:beginIndex "2999"^^xsd:nonNegativeInteger ;
+            nhterm:hasAnnotator <https://www.wikidata.org/entity/Q276902> ;
+            nhterm:hasConfidence "0.5"^^xsd:float ;
+            nhterm:hasEntity <http://dbpedia.org/resource/Ecological_engineering> ;
+            nhterm:hasPercentageOfSecondRank "0.0"^^xsd:float ;
+            nhterm:hasRelevance "0.0"^^xsd:float ;
+            nhterm:hasSimilarityScore "1.0"^^xsd:float ;
+            nhterm:hasStrength "0.0"^^xsd:float ;
+            nhterm:hasSupport "57.0"^^xsd:float ] ;
+    nhterm:hasContributor <https://newshunter.uib.no/resource/unresolved#Donna%20Lu> ;
+    nhterm:hasSource <https://newshunter.uib.no/resource/unresolved#The%20Guardian> ;
+    nhterm:inCollection <https://www.wikidata.org/entity/Q105193293> ;
+    nhterm:originalText "Artificial structures have replaced more than half of the coastline of 30 cities around the world, according to new research suggesting coastal infrastructure will have a significant ecological impact if not well managed. “Coastal hardening” – replacing natural coastal habitats with seawalls, breakwalls, wharves and other structures – is “consistently extensive” across cities in North America, the UK, Australia and New Zealand, finds a study published on Friday. The study’s authors warn that increases in coastal hardening “will result in the loss of extensive remaining natural habitat” – such as rocky reefs, sandy beaches, mudflats and mangroves – and further the spread of invasive species. Dr Ana Bugnot of the University of Sydney, one of the study’s co-authors, said the team found a correlation between the extent of coastal hardening and the number of invasive marine species present in a local area. “Ports particularly are big hotspots of invasive species, because they come in the hulls of ships, and ballast water,” she said. Non-native species then “find those [artificial] structures that are not really colonised much by the natural biodiversity … from there they can spread to surrounding areas.” Previous research by Bugnot has estimated that at least 1m sq km of seascape has been modified by the installation of coastal structures globally. Some coastal habitats such as mudflats and mangroves are “very important for migratory birds … as well as nursery habitats for particular types of fish,” she said. “When you put a breakwall or a seawall, you’re changing what is a soft sediment environment into a hard structure … you completely change the ecology of the place and you can lose those nursing grounds for some important species.” The researchers, from Australia and New Zealand, analysed coastal infrastructure in 30 cities including Adelaide, Baltimore, Belfast and Vancouver. They found several factors were linked to an increase in coastal hardening. Bugnot said: “In this set of estuaries that we studied, the indicators of growth were related to regional GDP of an area, population and then a series of shipping and boating parameters,” such as higher numbers of port visits by cargo ships, and more marinas for recreational boating. The team then developed an AI model to forecast the regional expansion of common types of coastal infrastructure. Using New Zealand as a specific case study, the researchers forecast an expansion of coastal infrastructure between 50 and 76% over a 25-year period. Bugnot said being able to predict where future growth in artificial coastal infrastructure would occur could help inform decisions before new structures were built. “Retrofitting … is usually a bigger battle,” she said. The ideal option is to restore some coastal habitats to their original state. “Sometimes reversing it back in the long term will be the cheapest and the most effective solution,” Bugnot said. In other locations, where shipping activity is high, ecological engineering could be employed. “If you think of a seawall, it’s a flat, vertical wall. The idea is to design those to look a bit more similar to what a rocky shore would look like, that would have peaks and crevices and ledges” to mimic natural microhabitats, Bugnot said. Mudflats, mangroves and other coastal habitats provide natural barriers that can play a significant role in reducing the effects of severe storms, saving thousands of lives and $600bn a year, another report found last week. Bugnot says the researchers were not able to explore what kind of an impact climate change – linked storm surges and sea level rise – would have as natural coastline habitats are replaced by artificial structures. “At the moment, the existence of coastal infrastructure seems to be driven by shipping and boating, but in the future, that could change,” she said. The study was published in the journal Nature Sustainability."^^xsd:string ;
+    nhterm:originalTitle "Natural habitats of 30 cities around the world at risk due to ‘coastal hardening’, study suggests"^^xsd:string ;
+    nhterm:sourceDateTime "2021-10-21T16:30:13+00:00"^^xsd:dateTime ;
+    nhterm:sourceIRL "https://amp.theguardian.com/australia-news/2021/oct/22/natural-habitats-of-30-cities-around-the-world-at-risk-due-to-coastal-hardening-study-suggests"^^xsd:anyURI .
+
+<http://dbpedia.org/resource/Adelaide_city_centre> a <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/Place>,
+        <http://dbpedia.org/resource/PopulatedPlace>,
+        <http://dbpedia.org/resource/Settlement>,
+        <http://www.wikidata.org/entity/Q486972>,
+        nhterm:Entity .
+
+<http://dbpedia.org/resource/Artificial_intelligence> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Baltimore> a <http://dbpedia.org/resource/City>,
+        <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/Place>,
+        <http://dbpedia.org/resource/PopulatedPlace>,
+        <http://dbpedia.org/resource/Settlement>,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q515>,
+        nhterm:Entity .
+
+<http://dbpedia.org/resource/Belfast> a <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/Place>,
+        <http://dbpedia.org/resource/PopulatedPlace>,
+        <http://dbpedia.org/resource/Settlement>,
+        <http://www.wikidata.org/entity/Q486972>,
+        nhterm:Entity .
+
+<http://dbpedia.org/resource/Biodiversity> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Breakwater_(structure)> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Climate_change> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Ecological_engineering> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Ecology> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Estuary> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Fish> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Gross_domestic_product> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Habitat> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Lactation> a nhterm:Entity .
+
+<http://dbpedia.org/resource/North_America> a <http://dbpedia.org/resource/Continent>,
+        <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/Place>,
+        <http://dbpedia.org/resource/PopulatedPlace>,
+        nhterm:Entity .
+
+<http://dbpedia.org/resource/Port_Jackson> a <http://dbpedia.org/resource/BodyOfWater>,
+        <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/NaturalPlace>,
+        <http://dbpedia.org/resource/Place>,
+        nhterm:Entity .
+
+<http://dbpedia.org/resource/Retrofitting> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Rocky_shore> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Sailing_ballast> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Sea_level_rise> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Seascape> a nhterm:Entity .
+
+<http://dbpedia.org/resource/Sedimentation> a nhterm:Entity .
+
+<http://dbpedia.org/resource/United_Kingdom> a <http://dbpedia.org/resource/Country>,
+        <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/Place>,
+        <http://dbpedia.org/resource/PopulatedPlace>,
+        <http://www.wikidata.org/entity/Q6256>,
+        nhterm:Entity .
+
+<http://dbpedia.org/resource/Vancouver> a <http://dbpedia.org/resource/City>,
+        <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/Place>,
+        <http://dbpedia.org/resource/PopulatedPlace>,
+        <http://dbpedia.org/resource/Settlement>,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q515>,
+        nhterm:Entity .
+
+<https://newshunter.uib.no/resource/unresolved#The%20Guardian> a nhterm:Agent .
+
+<http://dbpedia.org/resource/Australia> a <http://dbpedia.org/resource/Country>,
+        <http://dbpedia.org/resource/Location>,
+        <http://dbpedia.org/resource/Place>,
+        <http://dbpedia.org/resource/PopulatedPlace>,
+        <http://www.wikidata.org/entity/Q6256>,
+        nhterm:Entity .
+
+<http://dbpedia.org/resource/Seawall> a nhterm:Entity .
+
+<http://dbpedia.org/resource/New_Zealanders> a <http://dbpedia.org/resource/EthnicGroup>,
+        <http://www.wikidata.org/entity/Q41710>,
+        nhterm:Entity .
+
+<http://dbpedia.org/resource/Invasive_species> a nhterm:Entity .
+
+<https://www.wikidata.org/entity/Q276902> a nhterm:Agent .
+
